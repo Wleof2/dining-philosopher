@@ -1,0 +1,36 @@
+@import "colors.css";
+
+.main {
+    -fx-background-color: -white;
+}
+
+.info .title {
+    -fx-font-size: 24px;
+    -fx-color: #808080;
+    -fx-letter-spacing: 1.89px;
+    -fx-font-weight: 600;
+}
+
+.info .description {
+    -fx-font-size: 18px;
+    -fx-color: #808080;
+    -fx-letter-spacing: 1.41px;
+    -fx-line-height: 29px;
+    -fx-font-weight: 400;
+}
+
+.button {
+    -fx-background-radius: 4px
+}
+
+.button.start {
+    -fx-background-color: -blue;
+}
+
+.button.stop {
+    -fx-background-color: -red;
+}
+
+.button.pause {
+    -fx-background-color: -gray;
+}

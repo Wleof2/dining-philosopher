@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="382px" height="369px" viewBox="0 0 382 369" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>table</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="table" transform="translate(0.376559, 0.000000)" fill-rule="nonzero">
+            <circle id="Oval" fill="#D8D8D8" cx="190.623441" cy="57" r="57"></circle>
+            <circle id="Oval" fill="#D8D8D8" transform="translate(324.246881, 154.083112) rotate(90.000000) translate(-324.246881, -154.083112) " cx="324.246881" cy="154.083112" r="57"></circle>
+            <circle id="Oval" fill="#D8D8D8" transform="translate(273.207268, 311.166888) rotate(180.000000) translate(-273.207268, -311.166888) " cx="273.207268" cy="311.166888" r="57"></circle>
+            <circle id="Oval" fill="#D8D8D8" transform="translate(108.039613, 311.166888) rotate(180.000000) translate(-108.039613, -311.166888) " cx="108.039613" cy="311.166888" r="57"></circle>
+            <circle id="Oval" fill="#D8D8D8" transform="translate(57.000000, 154.083112) rotate(-90.000000) translate(-57.000000, -154.083112) " cx="57" cy="154.083112" r="57"></circle>
+            <rect id="Rectangle" fill="#979797" x="188.623441" y="267" width="4" height="88" rx="2"></rect>
+            <rect id="Rectangle" fill="#979797" transform="translate(80.776413, 231.191463) rotate(72.000000) translate(-80.776413, -231.191463) " x="78.776413" y="187.191463" width="4" height="88" rx="2"></rect>
+            <rect id="Rectangle" fill="#979797" transform="translate(122.734244, 102.058537) rotate(144.000000) translate(-122.734244, -102.058537) " x="120.734244" y="58.0585369" width="4" height="88" rx="2"></rect>
+            <rect id="Rectangle" fill="#979797" transform="translate(258.512637, 102.058537) rotate(-144.000000) translate(-258.512637, -102.058537) " x="256.512637" y="58.0585369" width="4" height="88" rx="2"></rect>
+            <rect id="Rectangle" fill="#979797" transform="translate(300.470468, 231.191463) rotate(-72.000000) translate(-300.470468, -231.191463) " x="298.470468" y="187.191463" width="4" height="88" rx="2"></rect>
+        </g>
+    </g>
+</svg>
